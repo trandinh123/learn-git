@@ -1,4 +1,4 @@
 hello git 
 hi git;;;
 
-this is third git;;;
+this is third git
